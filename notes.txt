@@ -1,0 +1,2 @@
+using pnpm(performant node package manager)
+why? - pnpm uses less disk space, installls faster, prevents bugd by strictly blocking undeclared dependencies.
